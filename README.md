@@ -8,22 +8,23 @@ We present ClipSwap, a new framework designed for high-fidelity face swapping. W
 
 ![clipswap](https://github.com/novicemm/ClipSwap-Towards-High-Fidelity-Face-Swapping-via-Attributes-and-CLIP-Informed-Loss-FG-2024-Oral-/assets/42999480/d034e8cb-6ad3-4f09-92cf-c3d4127cc610)
 
-
+\
 
 **Model Architecture**
 
 ![framework](https://github.com/novicemm/ClipSwap-Towards-High-Fidelity-Face-Swapping-via-Attributes-and-CLIP-Informed-Loss-FG-2024-Oral-/assets/42999480/ab994791-5df1-4b68-a30d-050cdff3d6e3)
 
 
-
+\
 **Results**
 
 ![results](https://github.com/novicemm/ClipSwap-Towards-High-Fidelity-Face-Swapping-via-Attributes-and-CLIP-Informed-Loss-FG-2024-Oral-/assets/42999480/c237a03c-8ab6-4d08-a1ae-63c51ef2ccf4)
 
-
+\
 
 **Wild Image Results**
 
 ![wild_images](https://github.com/novicemm/ClipSwap-Towards-High-Fidelity-Face-Swapping-via-Attributes-and-CLIP-Informed-Loss-FG-2024-Oral-/assets/42999480/96859be5-bacb-478a-bf00-f84a21e65629)
 
-**Code (Comming Soon)**
+\
+**Code (Coming Soon)**
