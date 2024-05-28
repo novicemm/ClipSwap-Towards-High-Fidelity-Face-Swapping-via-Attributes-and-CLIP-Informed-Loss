@@ -1,0 +1,1 @@
+# ClipSwap-Towards-High-Fidelity-Face-Swapping-via-Attributes-and-CLIP-Informed-Loss-FG-2024-Oral-
