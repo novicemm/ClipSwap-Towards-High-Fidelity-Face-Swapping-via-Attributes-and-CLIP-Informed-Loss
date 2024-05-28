@@ -26,4 +26,4 @@ We present ClipSwap, a new framework designed for high-fidelity face swapping. W
 
 ![wild_images](https://github.com/novicemm/ClipSwap-Towards-High-Fidelity-Face-Swapping-via-Attributes-and-CLIP-Informed-Loss-FG-2024-Oral-/assets/42999480/96859be5-bacb-478a-bf00-f84a21e65629)
 
-**Code (C0mming Soon)**
+**Code (Comming Soon)**
