@@ -24,7 +24,7 @@ We present ClipSwap, a new framework designed for high-fidelity face swapping. W
 ![wild_images](https://github.com/novicemm/ClipSwap-Towards-High-Fidelity-Face-Swapping-via-Attributes-and-CLIP-Informed-Loss-FG-2024-Oral-/assets/42999480/96859be5-bacb-478a-bf00-f84a21e65629)
 
 
-**Installation**
+## Installation
 
 Clone the code and set up the environment.
 
@@ -32,7 +32,7 @@ Clone the code and set up the environment.
 conda env create -f environment.yaml
 
 ```
-**Download Pretrained Models**
+## Download Pretrained Models
 
 Download the pretrained checkpoints folder, which include the following parts: RetinaFace-Res50.h5, ArcFace-Res50.h5, and our model ClipSwap.h5, from [here](https://drive.google.com/drive/folders/1WWRTGQy-cx9QxMsF_etrEnWIvqxutlVX?usp=drive_link).  After downloading, place the models in the project folder. 
 
@@ -49,7 +49,7 @@ The pretrained models should be organized as follows:
 
 ```
 
-**Inference**
+## Inference
 
 To run the inference, you can either execute the provided bash script or run the Python script directly:
 
@@ -65,11 +65,11 @@ python inference.py --target /path/to/target_image.jpg --source /path/to/source_
 ```
 Make sure to replace /path/to/target_image.jpg and /path/to/source_image.jpg with the actual paths to your input images.
 
-**Acknowledgements**
+## Acknowledgements
 
 We borrow some code from [insightface](https://github.com/deepinsight/insightface) and [FaceDancer](https://github.com/felixrosberg/FaceDancer).
 
-**Citation**
+## Citation
 
 If you find our work useful in your research, please consider citing us:
 
