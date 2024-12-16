@@ -67,7 +67,7 @@ Make sure to replace /path/to/target_image.jpg and /path/to/source_image.jpg wit
 
 ## Acknowledgements
 
-We borrow some code from [insightface](https://github.com/deepinsight/insightface) and [FaceDancer](https://github.com/felixrosberg/FaceDancer).
+We borrow some code from [Insightface](https://github.com/deepinsight/insightface) and [FaceDancer](https://github.com/felixrosberg/FaceDancer).
 
 ## Citation
 
